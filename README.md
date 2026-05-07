@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Hi, it's me Charlize! 👋</h1>
+  <p> a full stack developer </p>
 </div>
 
 ### 🚀 Tech Stack
