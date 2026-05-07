@@ -7,5 +7,3 @@
 </p>
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnadela-dev&layout=compact&theme=tokyonight)
