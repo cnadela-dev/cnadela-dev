@@ -4,9 +4,9 @@ full stack developer  ·  builder of things  ·  based in 🇵🇭
 </div>
 
 ---
-
-## &nbsp;⬡&nbsp; stack 
 <div align="center">
+## &nbsp;⬡&nbsp; stack 
+
 <table>
   <tr>
     <td align="center" width="96">
