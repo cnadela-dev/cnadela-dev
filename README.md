@@ -68,5 +68,5 @@ full stack developer  ·  builder of things  ·  based in 🇵🇭
 ---
 
 <div align="center">
-<sub>— let's build something —</sub>
+<sub>— git commit -m "always improving" —</sub>
 </div>
