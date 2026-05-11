@@ -67,9 +67,7 @@ full stack developer  ·  builder of things  ·  based in 🇵🇭
 </div>
 
 ## &nbsp;⬡&nbsp; github stats
-<div align="center">
-  ![](https://streak-stats.demolab.com/?user=cnadela-dev&theme=dark&hide_border=false)<br/>
-</div>
+![](https://streak-stats.demolab.com/?user=cnadela-dev&theme=dark&hide_border=false)<br/>
 ---
 
 <div align="center">
