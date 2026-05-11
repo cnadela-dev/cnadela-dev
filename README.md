@@ -65,7 +65,6 @@ full stack developer
     </tr>
   </table>
 </div>
----
 
 <div align="center">
 <sub>— git commit -m "always improving" —</sub>
