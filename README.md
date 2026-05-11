@@ -16,4 +16,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" title="Bootstrap" />
 </p>
 
+###  🛠️ Tools
+<div align="left">
+   img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" title="Git" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="Postman" title="Postman" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="30" alt="DBeaver" title="DBeaver" />
+</div>
 ---
