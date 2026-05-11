@@ -65,9 +65,6 @@ full stack developer
     </tr>
   </table>
 </div>
-
-## &nbsp;⬡&nbsp; github stats
-![](https://streak-stats.demolab.com/?user=cnadela-dev&theme=dark&hide_border=false)<br/>
 ---
 
 <div align="center">
