@@ -1,6 +1,6 @@
 <div align="center">
 <h1> Charlize </h1>
-full stack developer  ·  builder of things  ·  based in 🇵🇭
+full stack developer
 </div>
 
 ---
