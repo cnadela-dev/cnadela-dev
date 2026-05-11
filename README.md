@@ -5,8 +5,8 @@ full stack developer  ·  builder of things  ·  based in 🇵🇭
 
 ---
 
-## &nbsp;⬡&nbsp; stack
-
+## &nbsp;⬡&nbsp; stack 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="96">
@@ -43,7 +43,7 @@ full stack developer  ·  builder of things  ·  based in 🇵🇭
     </td>
   </tr>
 </table>
-
+</div>
 <br/>
 
 ## &nbsp;⬡&nbsp; tools
