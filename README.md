@@ -47,28 +47,29 @@ full stack developer  ·  builder of things  ·  based in 🇵🇭
 <br/>
 
 ## &nbsp;⬡&nbsp; tools
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38" alt="Git" />
-      <br/><sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="38" height="38" alt="Postman" />
-      <br/><sub><b>Postman</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="38" height="38" alt="DBeaver" />
-      <br/><sub><b>DBeaver</b></sub>
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38" alt="Git" />
+        <br/><sub><b>Git</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="38" height="38" alt="Postman" />
+        <br/><sub><b>Postman</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="38" height="38" alt="DBeaver" />
+        <br/><sub><b>DBeaver</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## &nbsp;⬡&nbsp; github stats
-![](https://streak-stats.demolab.com/?user=cnadela-dev&theme=dark&hide_border=false)<br/>
-
+<div align="center">
+  ![](https://streak-stats.demolab.com/?user=cnadela-dev&theme=dark&hide_border=false)<br/>
+</div>
 ---
 
 <div align="center">
